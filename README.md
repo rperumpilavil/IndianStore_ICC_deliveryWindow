@@ -3,12 +3,12 @@ Delivery window alert script
 
 ## Prerequisite
 1. Have account [Indian Cash and Carry](https://www.indiacashandcarry.com/)
-2. Add the required products cart to enable delivery. As of now its $30.
-3. Visit [Checkout page](https://www.indiacashandcarry.com/cart/checkout) and collect apikey and authtoken from request header from https://partnersapi.gethomesome.com/user/basket call.
+2. Add the required products to cart to enable delivery. As of now its $30.
+3. Visit [Checkout page](https://www.indiacashandcarry.com/cart/checkout) and collect apikey and authtoken from the request header from https://partnersapi.gethomesome.com/user/basket call.
 
 ![image](checkout.png)
 
-## Installation
+## Install
 
 In terminal run
 `sh setup.sh` from installation directory
